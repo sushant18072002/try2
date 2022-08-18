@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Gulab Jamun",
+    "discription": "The soft and syrupy Gulab Jamun makes its way to the top in a marriage sweets list. The spongy dough balls made with Khoya and fried in saffron syrup tastes like heaven when eaten warm.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gulab-jamun-wallpaper-1.jpg",
+    "published_date": "2022-01-16",
+    "event_date": "2022-01-30"
+  },
+  {
+    "id": 1,
+    "name": "Jalebi",
+    "discription": "This is a popular crunchy dessert that goes well during a wedding breakfast as well as reception dinner party. When served warm it tastes as delicious as it looks.",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jalebi_image.jpg/640px-Jalebi_image.jpg",
+    "published_date": "2022-03-22",
+    "event_date": "2022-04-05"
+  },
+  {
+    "id": 2,
+    "name": "Kheer/ Payasam",
+    "discription": "This is a sweet dish that makes a perfect after dinner dessert. These are prepared with fragrant rice or vermicelli prepped up with almonds, pistachios, and could be served cold ",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kheer%28Payasam%29.jpg/450px-Kheer%28Payasam%29.jpg?20200620080228",
+    "published_date": "2022-08-20",
+    "event_date": "2022-09-11"
+  },
+  {
+    "id": 3,
+    "name": "Shrikhand",
+    "discription": "This is a milk based sweet dish that is most popular in Maharashtra and Gujarat regions. Even many brands are selling these sweets in a sealed pack due to its huge popularity ",
+    "imageUrl": "https://www.oyorooms.com/blog/wp-content/uploads/2018/07/shutterstock_415909003.jpg",
+    "published_date": "2022-09-21",
+    "event_date": "2022-09-29"
+  },
+  {
+    "id": 3,
+    "name": "Rasmalai",
+    "discription": "These spongy, creamy and sugary delights are available in oval or spherical shape. These are perfect sweets for marriage and are favourite of every guest. The last few slurps are like a divine for those who adore this sweet like a dear. ",
+    "imageUrl": "https://www.oyorooms.com/blog/wp-content/uploads/2018/07/shutterstock_765834193.jpg",
+    "published_date": "2022-10-20",
+    "event_date": "2022-11-18"
+  }
+]
